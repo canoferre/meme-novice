@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "meme-novice",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "33b4f07e-81d6-4d4a-a80f-ca760758c0ab",
+			"database_name": "memenovice_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
